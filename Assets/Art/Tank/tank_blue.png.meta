@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: 12af33e35ea6fd14280e8263f1304940
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tank_blue_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac783a222757ae4e99a204f98459c4c
+      internalID: 1800192318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33784901673833c4fb2150eaf80751ad
+      internalID: 1448991269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_2
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cef90ff74736d4eb8e2d06225a5f05
+      internalID: 2026478079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 0
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192aae7531b1fcc4fb4576d0624fd61d
+      internalID: 363404179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 0
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfafee1f6f5d6d43ad4ab87d85760ef
+      internalID: 151560726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6cb4bddeb720c49a95b1f8dec6ef00
+      internalID: 117878566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_6
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6525d65727b2124ba9f04af4168f608
+      internalID: -599423609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b862753619c4d4648b7f66193452d61f
+      internalID: 571375973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_8
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622be2a94ba07994d99a5da231565644
+      internalID: -662930864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tank_blue_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b84a4d7cef74429c049fd3dea035e
+      internalID: 1447181697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -383, y: 27.5}
+      - {x: -394, y: 25.5}
+      - {x: -394, y: -27.5}
+      - {x: -330, y: -27.5}
+      - {x: -326, y: -16.5}
+      - {x: -326, y: 16.5}
+      - {x: -338, y: 27.5}
+    - - {x: -266, y: 27.5}
+      - {x: -304, y: 27.5}
+      - {x: -314, y: 19.5}
+      - {x: -314, y: -20.5}
+      - {x: -311, y: -27.5}
+      - {x: -253, y: -27.5}
+      - {x: -246, y: -19.5}
+      - {x: -246, y: 22.5}
+    - - {x: -187, y: 27.5}
+      - {x: -217, y: 27.5}
+      - {x: -234, y: 23.5}
+      - {x: -234, y: -27.5}
+      - {x: -169, y: -27.5}
+      - {x: -166, y: -18.5}
+      - {x: -166, y: 9.5}
+      - {x: -173, y: 16.5}
+    - - {x: -107, y: 27.5}
+      - {x: -130, y: 27.5}
+      - {x: -154, y: 17.5}
+      - {x: -154, y: -23.5}
+      - {x: -149, y: -27.5}
+      - {x: -90, y: -27.5}
+      - {x: -86, y: -13.5}
+      - {x: -86, y: 4.5}
+      - {x: -90, y: 15.5}
+    - - {x: -56, y: 27.5}
+      - {x: -74, y: 12.5}
+      - {x: -74, y: -18.5}
+      - {x: -70, y: -27.5}
+      - {x: -10, y: -27.5}
+      - {x: -7, y: -20.5}
+      - {x: -7, y: 13.5}
+      - {x: -25, y: 27.5}
+    - - {x: 30, y: 27.5}
+      - {x: 12, y: 18.5}
+      - {x: 6, y: 12.5}
+      - {x: 6, y: -17.5}
+      - {x: 10, y: -27.5}
+      - {x: 69, y: -27.5}
+      - {x: 73, y: -19.5}
+      - {x: 73, y: 10.5}
+      - {x: 54, y: 27.5}
+    - - {x: 95, y: 27.5}
+      - {x: 86, y: 15.5}
+      - {x: 86, y: -27.5}
+      - {x: 151, y: -27.5}
+      - {x: 153, y: -19.5}
+      - {x: 153, y: 9.5}
+      - {x: 132, y: 27.5}
+    - - {x: 218, y: 27.5}
+      - {x: 174, y: 27.5}
+      - {x: 168, y: 21.5}
+      - {x: 166, y: 15.5}
+      - {x: 166, y: -27.5}
+      - {x: 229, y: -27.5}
+      - {x: 234, y: -14.5}
+      - {x: 234, y: 21.5}
+    - - {x: 269, y: 27.5}
+      - {x: 246, y: 18.5}
+      - {x: 246, y: -18.5}
+      - {x: 251, y: -27.5}
+      - {x: 314, y: -27.5}
+      - {x: 314, y: 14.5}
+      - {x: 296, y: 27.5}
+    - - {x: 336, y: 27.5}
+      - {x: 328, y: 21.5}
+      - {x: 326, y: 8.5}
+      - {x: 326, y: -24.5}
+      - {x: 330, y: -27.5}
+      - {x: 389, y: -27.5}
+      - {x: 394, y: -15.5}
+      - {x: 394, y: 21.5}
+      - {x: 374, y: 27.5}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tank_blue_0: 1800192318
+      tank_blue_1: 1448991269
+      tank_blue_2: 2026478079
+      tank_blue_3: 363404179
+      tank_blue_4: 151560726
+      tank_blue_5: 117878566
+      tank_blue_6: -599423609
+      tank_blue_7: 571375973
+      tank_blue_8: -662930864
+      tank_blue_9: 1447181697
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
